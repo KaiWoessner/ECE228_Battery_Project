@@ -1,4 +1,4 @@
-Initial code from https://github.com/rdbraatz/data-driven-prediction-of-battery-cycle-life-before-capacity-degradation
+Initial code from https://github.com/rdbraatz/data-driven-prediction-of-battery-cycle-life-before-capacity-degradation \
 Data used from the “Data-driven prediction of battery cycle life before capacity degradation” publication: 
 - Severson et al. Data-driven prediction of battery cycle life before capacity degradation. Nature Energy volume 4, pages 383–391 (2019)
 
