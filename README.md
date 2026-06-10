@@ -13,7 +13,7 @@ The Severson paper's GitHub repository can be found here: https://github.com/rdb
 - Fourier Neural Operator (FNO)
 
 ## Repo Strucutre
-The home directory contains the folder with the data analysis that was conducted (`data_analysis`), the Jupyter notebooks to load the data as a pandas dataframe (`data_loading`), the 4 different models that we tested (Linear, MLP, GRU, FNO), and the final model results across all models (`final_model_results.ipynb`)
+The home directory contains the data analysis folder (`data_analysis`), the folder to load the dataset as a pandas dataframe (`data_loading`), the 4 different models that were tested (Linear, MLP, GRU, FNO), and the final model results across all models (`final_model_results.ipynb`)
 
 ## Data Source
 The initial data comes from a public dataset developed for and used in the Severson paper:
